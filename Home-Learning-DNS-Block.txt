@@ -1,0 +1,33 @@
+#  Title: Home Learning DNS Block List
+#  Entries:   
+#  Updated: 12-17-2020
+#  Maintainer: northmendo
+#  Expires: 1 day (update frequency)
+#  Homepage: https://github.com/northmendo/Home-Learning-DNS-Block
+#  This list is very new domains will be added as I review logs from distance learning
+play.google.com
+gamesgames.com
+gamepass.com
+kogama.com
+disney.com
+twitter.com
+nick.com
+spiritanimal.info
+tiktok.com
+doovi.com
+apple.co
+apple.com
+robloxpiggy.com
+boomerang.com
+hide-io.org
+thedodo.com
+cartoonnetwork.com
+crazygames.com
+buzzfeed.com
+minecraft.net
+hide.me
+meet.jit.si
+linkello.com
+talky.io
+jitsi.org
+spilgames.com
