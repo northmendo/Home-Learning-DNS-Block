@@ -1,38 +1,90 @@
-#  Title: Home Learning DNS Block List
-#  Entries:   
-#  Updated: 12-17-2020
-#  Maintainer: northmendo
-#  Expires: 1 day (update frequency)
-#  Homepage: https://github.com/northmendo/Home-Learning-DNS-Block
-#  This list is very new domains will be added as I review logs from distance learning
-play.google.com
-gamesgames.com
-gamepass.com
-kogama.com
-disney.com
-twitter.com
-nick.com
-spiritanimal.info
-tiktok.com
-doovi.com
-apple.co
-apple.com
-robloxpiggy.com
-boomerang.com
-hide-io.org
-thedodo.com
-cartoonnetwork.com
-crazygames.com
-buzzfeed.com
-minecraft.net
-hide.me
-meet.jit.si
-linkello.com
-talky.io
-jitsi.org
-spilgames.com
-agame.com
-freetogame.com
-epicgames.com
-freegames.org
-arkadium.com
+# Title: Home Learning DNS Block List
+# Updated: 11-05-2025
+# Maintainer: northmendo
+# Homepage: https://github.com/northmendo/Home-Learning-DNS-Block
+# Format: Domain list (compatible with Pi-hole and AdGuard Home)
+# Updated with current popular gaming, social media, and entertainment sites
+
+# Gaming Sites
+0.0.0.0 play.google.com
+0.0.0.0 gamesgames.com
+0.0.0.0 gamepass.com
+0.0.0.0 kogama.com
+0.0.0.0 robloxpiggy.com
+0.0.0.0 hide-io.org
+0.0.0.0 crazygames.com
+0.0.0.0 minecraft.net
+0.0.0.0 epicgames.com
+0.0.0.0 spilgames.com
+0.0.0.0 agame.com
+0.0.0.0 freetogame.com
+0.0.0.0 freegames.org
+0.0.0.0 arkadium.com
+0.0.0.0 poki.com
+0.0.0.0 addictinggames.com
+0.0.0.0 kongregate.com
+0.0.0.0 steam-community.com
+0.0.0.0 armorgames.com
+0.0.0.0 newgrounds.com
+0.0.0.0 y8.com
+0.0.0.0 kizi.com
+0.0.0.0 miniclip.com
+0.0.0.0 itch.io
+
+# Social Media & Messaging
+0.0.0.0 twitter.com
+0.0.0.0 tiktok.com
+0.0.0.0 doovi.com
+0.0.0.0 discord.com
+0.0.0.0 snapchat.com
+0.0.0.0 instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 reddit.com
+0.0.0.0 telegram.org
+0.0.0.0 whatsapp.com
+0.0.0.0 threads.net
+
+# Video Streaming & Entertainment
+0.0.0.0 disney.com
+0.0.0.0 nick.com
+0.0.0.0 spiritanimal.info
+0.0.0.0 thedodo.com
+0.0.0.0 cartoonnetwork.com
+0.0.0.0 boomerang.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 youtube.com
+0.0.0.0 twitch.tv
+0.0.0.0 netflix.com
+0.0.0.0 hulu.com
+0.0.0.0 disneyplus.com
+0.0.0.0 tumblr.com
+0.0.0.0 vimeo.com
+
+# VPN/Proxy Services
+0.0.0.0 hide.me
+0.0.0.0 linkello.com
+0.0.0.0 expressvpn.com
+0.0.0.0 nordvpn.com
+0.0.0.0 surfshark.com
+0.0.0.0 protonvpn.com
+0.0.0.0 privateinternetaccess.com
+0.0.0.0 cyberghost.com
+0.0.0.0 hidemyass.com
+0.0.0.0 tunnelbear.com
+0.0.0.0 hotspotshield.com
+0.0.0.0 mullvad.net
+0.0.0.0 ipvanish.com
+0.0.0.0 purevpn.com
+0.0.0.0 proxysite.com
+0.0.0.0 kproxy.com
+0.0.0.0 whoer.net
+0.0.0.0 4everproxy.com
+0.0.0.0 vtunnel.com
+0.0.0.0 btunnel.com
+0.0.0.0 psiphon.ca
+0.0.0.0 proxfree.com
+
+# Video Conferencing (uncomment to block)
+# 0.0.0.0 meet.jit.si
+# 0.0.0.0 talky.io
+# 0.0.0.0 jitsi.org
