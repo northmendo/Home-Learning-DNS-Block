@@ -85,6 +85,6 @@
 0.0.0.0 proxfree.com
 
 # Video Conferencing (uncomment to block)
-# 0.0.0.0 meet.jit.si
-# 0.0.0.0 talky.io
-# 0.0.0.0 jitsi.org
+ 0.0.0.0 meet.jit.si
+ 0.0.0.0 talky.io
+ 0.0.0.0 jitsi.org
